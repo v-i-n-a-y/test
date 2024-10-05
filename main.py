@@ -1,3 +1,8 @@
+# Test file
+
+def test():
+    print("Test")
+
 def main():
     print("Main")
 
